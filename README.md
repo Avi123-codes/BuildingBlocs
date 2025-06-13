@@ -6,7 +6,7 @@ This project trains a Convolutional Neural Network (CNN) to classify hand gestur
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  29-class classification: A–Z, space, nothing  
 -  Trained on 87,000+ preprocessed hand gesture images  
