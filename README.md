@@ -16,41 +16,6 @@ This project trains a Convolutional Neural Network (CNN) to classify hand gestur
 
 
 
-## Project Structure
-
-
-
-asl-interpreter/
-├── model/                      
-│   ├── asl\_cnn\_model.keras
-│   ├── asl\_label\_encoder.pkl
-│   └── convert\_to\_tfjs.sh
-│
-├── dataset/                    
-│   ├── asl\_alphabet\_full.csv
-│   └── sample\_images/
-│
-├── notebooks/                 
-│   └── train\_model.ipynb
-│
-├── scripts/                    
-│   ├── train\_model.py
-│   └── live\_predict.py
-│
-├── tfjs\_model/                 
-│   ├── model.json
-│   └── group1-shard1of1.bin
-│
-├── webapp/                     
-│   ├── index.html
-│   ├── app.js
-│   └── style.css
-│
-
-└── README.md
-
-
-
 
 Required packages:
 
